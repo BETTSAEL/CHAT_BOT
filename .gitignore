@@ -1,0 +1,16 @@
+# Ignorar dependencias de Node
+node_modules
+
+# Ignorar archivos de entorno (¡Contiene secretos!)
+.env
+
+# Ignorar carpetas de Visual Studio y caché
+.vs/
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignorar registros
+logs/
+
+# Ignorar archivos comprimidos
+*.rar
